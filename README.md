@@ -9,6 +9,8 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 
 A strategic and interactive Power BI solution designed to monitor and evaluate overall sales performance. This dashboard presents KPIs such as revenue, profit margin, and sales by category and region, allowing stakeholders to assess progress against targets, identify high-performing areas, and uncover growth opportunities with clarity and precision.
 
+![Sales Overview Dashboard](sales.png)
+
 ## Project 2: Product Overview Dasboard
 
 This Power BI dashboard provides insights into sales, profit, and order quantity across regions, product categories, and timelines, highlighting top-performing and improving products for data-driven decision-making.
