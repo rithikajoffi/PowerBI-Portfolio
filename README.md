@@ -47,5 +47,12 @@ To enrich the geographic component of the analysis, I also web scraped the longi
 
 ![Zomato Dashboard](zomato.png)
 
+## Project 4: HR Portal Dashboard
+
+This interactive Power BI HR dashboard provides applicant insights by college, selection round stats, and candidate-level details including academic performance, scores, panel feedback, and offer status for hiring decisions.
+
+![HR_1 Dashboard](hr_1.png)
+![HR_2 Dashboard](hr_2.png)
+
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
